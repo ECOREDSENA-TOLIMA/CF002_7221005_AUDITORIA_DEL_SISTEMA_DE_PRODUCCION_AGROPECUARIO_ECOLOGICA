@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.772" height="64.181" viewBox="0 0 89.772 64.181">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_349818" data-name="Rectángulo 349818" width="89.772" height="64.181" transform="translate(-19)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_982832" data-name="Grupo 982832" transform="translate(19)">
+    <path id="Trazado_716743" data-name="Trazado 716743" d="M67.194,39.045h-64V3.448h64ZM4.428,37.809h61.53V4.682H4.428Z" fill="#dfffcc"/>
+    <path id="Trazado_716744" data-name="Trazado 716744" d="M67.194,39.045h-64V3.448h64ZM4.428,37.809h61.53V4.682H4.428Z" fill="none" stroke="#dfffcc" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Grupo_982831" data-name="Grupo 982831">
+      <g id="Grupo_982830" data-name="Grupo 982830" clip-path="url(#clip-path)">
+        <path id="Trazado_716745" data-name="Trazado 716745" d="M19.7,25.39l-3.093-5.064a.881.881,0,0,1,1.5-.919L20.3,22.988l5.814-3.441a.881.881,0,0,1,.9,1.516Z" fill="#dfffcc"/>
+        <path id="Trazado_716746" data-name="Trazado 716746" d="M19.7,25.39l-3.093-5.064a.881.881,0,0,1,1.5-.919L20.3,22.988l5.814-3.441a.881.881,0,0,1,.9,1.516Z" fill="none" stroke="#dfffcc" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_716747" data-name="Trazado 716747" d="M21.776,33.2A11.123,11.123,0,1,1,32.9,22.074,11.136,11.136,0,0,1,21.776,33.2m0-20.657a9.534,9.534,0,1,0,9.534,9.534,9.545,9.545,0,0,0-9.534-9.534" fill="#dfffcc"/>
+        <path id="Trazado_716748" data-name="Trazado 716748" d="M21.776,33.2A11.123,11.123,0,1,1,32.9,22.074,11.136,11.136,0,0,1,21.776,33.2Zm0-20.657a9.534,9.534,0,1,0,9.534,9.534A9.545,9.545,0,0,0,21.776,12.54Z" fill="none" stroke="#dfffcc" stroke-miterlimit="10" stroke-width="1"/>
+        <rect id="Rectángulo_349816" data-name="Rectángulo 349816" width="17.953" height="3.575" transform="translate(37.511 15.553)" fill="#ffee58"/>
+        <rect id="Rectángulo_349817" data-name="Rectángulo 349817" width="20.145" height="3.575" transform="translate(37.51 23.364)" fill="#ffee58"/>
+        <path id="Trazado_716749" data-name="Trazado 716749" d="M19.921,62.681h-34.17V61.446H18.686V39.817h1.235Z" fill="#dfffcc"/>
+        <path id="Trazado_716750" data-name="Trazado 716750" d="M19.921,62.681h-34.17V61.446H18.686V39.817h1.235Z" fill="none" stroke="#dfffcc" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Trazado_716751" data-name="Trazado 716751" d="M70.272,26.145H69.037V1.736H42.84V.5H70.272Z" fill="#dfffcc"/>
+        <path id="Trazado_716752" data-name="Trazado 716752" d="M70.272,26.145H69.037V1.736H42.84V.5H70.272Z" fill="none" stroke="#dfffcc" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

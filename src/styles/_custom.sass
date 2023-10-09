@@ -2,18 +2,63 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 32%
+    right: 55%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 44%
+  &-3
+    animation: float1 2.2s ease-in-out infinite alternate
+    position: absolute
+    top: 22%
+    right: 5%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(15px)
 
   100%
     transform: translateY(0px)
+
+i.fas.fa-check
+  color: $color-acento-contenido
+
+.acordion__activo
+  background-color: $color-adicional-1
+
+.acordion__accion__btn--a,.acordion__accion__btn--b,.slyder__btn,.slyder-a__btn--atrs,.slyder-a__btn--sigt
+  background-color: $color-acento-botones
+  i
+    color: $white
+
+.bloque-texto-d.color-primario:before
+  background-color: lighten($color-primario, 62%)
+
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+@media only screen and (width: 390px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+.tabla-b
+  tr.cabecera-a
+    background-color: $color-acento-contenido
+  .cabecera-b
+    background-color: lighten($color-secundario, 60%) !important
+
+i.fas.fa-circle
+  font-size: 10px
+  color: $color-acento-contenido
+
+h3.titulo
+  background-color: #E8F3F8
+
+.texto-negro
+  p,h4
+    color: $black !important
