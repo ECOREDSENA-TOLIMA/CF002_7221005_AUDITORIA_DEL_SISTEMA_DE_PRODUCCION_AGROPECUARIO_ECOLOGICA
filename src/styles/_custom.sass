@@ -2,18 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 32%
-    right: 55%
+    top: 42%
+    right: 77%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 15%
-    right: 44%
+    top: 25%
+    right: 26%
   &-3
     animation: float1 2.2s ease-in-out infinite alternate
     position: absolute
-    top: 22%
-    right: 5%
+    top: 62%
+    right: 13%
 
 
 @keyframes float1
@@ -54,11 +54,16 @@ i.fas.fa-check
 
 i.fas.fa-circle
   font-size: 10px
-  color: $color-acento-contenido
+  color: $color-primario
 
 h3.titulo
   background-color: #E8F3F8
 
 .texto-negro
-  p,h4
+  p,h4,h3
     color: $black !important
+
+.tarjeta.color-secundario2
+  background-color: $color-secundario
+.tarjeta.color-secundario
+  background-color: lighten($color-secundario, 22%)

@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis se muestran las bases fundamentales para la creación del plan de auditoría, entre estos: los elementos que se desean auditar, el contenido, la presentación, los instrumentos y técnicas.")
+          img(src="@/assets/curso/temas/sintesis.png", alt="En la síntesis se muestran las bases fundamentales para la creación del plan de auditoría, entre estos: los elementos que se desean auditar, el contenido, la presentación, los instrumentos y técnicas.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
