@@ -53,19 +53,19 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema5/info-1.svg', alt='')
-      .tarjeta.color-primario.p-3(x="83.4%" y="19%" numero="+")
+      .tarjeta.color-primario.p-3(x="83.4%" y="19%" numero="1")
         .h5.mb-2 Objetivos
         p Establecen los propósitos generales de la auditoría.
-      .tarjeta.color-primario.p-3(x="56%" y="42.5%" numero="+")
+      .tarjeta.color-primario.p-3(x="56%" y="42.5%" numero="2")
         .h5.mb-2 Alcance
         p Define claramente lo que será auditado, los límites y las áreas involucradas.
-      .tarjeta.color-primario.p-3(x="36.4%" y="8.6%" numero="+")
+      .tarjeta.color-primario.p-3(x="36.4%" y="8.6%" numero="3")
         .h5.mb-2 Equipo
         p Enumera a los miembros del equipo de auditoría y sus roles.
-      .tarjeta.color-primario.p-3(x="60%" y="68%" numero="+")
+      .tarjeta.color-primario.p-3(x="60%" y="68%" numero="4")
         .h5.mb-2 Cronograma
         p Indica el período de tiempo en el que se llevará a cabo la auditoría.
-      .tarjeta.color-primario.p-3(x="21%" y="27%" numero="+")
+      .tarjeta.color-primario.p-3(x="21%" y="27%" numero="5")
         .h5.mb-2 Instrucciones
         p Proporciona directrices y procedimientos específicos para la ejecución de la auditoría.
 

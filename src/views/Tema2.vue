@@ -488,8 +488,8 @@
             img(src='@/assets/curso/temas/tema2/tema2-51.png', alt='')
 
     Separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.1 HACCP
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 HACCP
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-9(data-aos="fade-down-right")
@@ -599,7 +599,7 @@
             .col-12
               p El equipo de HACCP deberá cotejar el diagrama de flujo con la operación de elaboración en todas sus etapas y momentos.
 
-          .row(numero="4" titulo="Enumeración de todos los posibles riesgos") 
+          .row(numero="5" titulo="Enumeración de todos los posibles riesgos") 
             .col-12
               p Se deberá hacer un diagrama de flujo relacionado con cada fase, ejecución de un análisis de peligros y estudio de las medidas para controlar los peligros identificados.
 
