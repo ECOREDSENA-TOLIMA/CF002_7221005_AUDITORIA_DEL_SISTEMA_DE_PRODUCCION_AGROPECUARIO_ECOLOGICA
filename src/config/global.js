@@ -65,7 +65,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'HACCP',
+            titulo: '<em>HACCP</em>',
             hash: 't_2_2',
           },
         ],
@@ -120,7 +120,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_02_7221005.zip',
+        download: 'downloads/CFA_02_72210005.zip',
       },
       {
         icono: 'fas fa-download',
@@ -138,15 +138,15 @@ export default {
     {
       tema: '1. Sistema de gestión ambiental',
       referencia:
-        'Rama Judicial (2015). Sistema de gestión ambiental. Requisitos con orientación para su uso (NTC-ISO 14001).',
+        'Rama Judicial (2015). <em>Sistema de gestión ambiental. Requisitos con orientación para su uso</em> (NTC-ISO 14001).',
       tipo: 'Norma Técnica',
       link:
-        'https://www.ramajudicial.gov.co/documents/8957139/22744716/NORMA+14001+%281%29%281%29.pdf/c26b5d90-20ba-4af0-8e4a-3ae1c45315e2',
+        'https://www.forpo.gov.co/es/planeacion-gestion-y-control/control-interno-1/normatividad-2/5163-ntc-iso-14001-2015/file',
     },
     {
       tema: 'Tipos',
       referencia:
-        'Agencia para la Reincorporación y la Normalización [ARN]. (2021). Excombatientes fortalecen las buenas prácticas pecuarias en el Catatumbo. GOV.CO.',
+        'Agencia para la Reincorporación y la Normalización [ARN]. (2021). <em>Excombatientes fortalecen las buenas prácticas pecuarias en el Catatumbo.</em> GOV.CO.',
       tipo: 'Artículo',
       link:
         'https://www.reincorporacion.gov.co/es/sala-de-prensa/noticias/Paginas/2021/Excombatientes-fortalecen-las-buenas-practicas-pecuarias-en-el-Catatumbo.aspx',
@@ -154,14 +154,14 @@ export default {
     {
       tema: '3. Planificación de auditoría ',
       referencia:
-        'Martínez, C. [UCAM Universidad Católica de Murcia]. (2015a). Auditoría - Planificación de la Auditoría: Fase de Planificación - Carmen María Martínez Franco [Video]. YouTube. ',
+        'Martínez, C. [UCAM Universidad Católica de Murcia]. (2015a). <em>Auditoría - Planificación de la Auditoría: Fase de Planificación - Carmen María Martínez Franco</em> [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=VppLGbFPU88',
     },
     {
       tema: '3. Planificación de auditoría ',
       referencia:
-        'Martínez, C. [UCAM Universidad Católica de Murcia]. (2015b). Auditoría - Planificación de la Auditoría: Fase Previa - Carmen María Martínez Franco [Video]. YouTube. ',
+        'Martínez, C. [UCAM Universidad Católica de Murcia]. (2015b). <em>Auditoría - Planificación de la Auditoría: Fase Previa - Carmen María Martínez Franco</em> [Video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=SiSaV4PftEc',
     },
@@ -213,12 +213,12 @@ export default {
     },
     {
       referencia:
-        'Food and Agriculture Organization. (1997). Sistema de análisis de peligros y de puntos críticos de control (HACCP) y directrices para su aplicación. ',
+        '<em>Food and Agriculture Organization</em>. (1997). Sistema de análisis de peligros y de puntos críticos de control (<em>HACCP</em>) y directrices para su aplicación. ',
       link: 'https://www.fao.org/3/y1579s/y1579s03.htm',
     },
     {
       referencia:
-        'nternational Dynamic Advisors [Intedya]. (s. f.). Buenas Prácticas de Manufactura (BPM). ',
+        '<em>International Dynamic Advisors [Intedya]</em>. (s. f.). Buenas Prácticas de Manufactura (BPM). ',
       link:
         'https://www.intedya.com/internacional/103/consultoria-buenas-practicas-de-manufactura-bpm.html',
     },

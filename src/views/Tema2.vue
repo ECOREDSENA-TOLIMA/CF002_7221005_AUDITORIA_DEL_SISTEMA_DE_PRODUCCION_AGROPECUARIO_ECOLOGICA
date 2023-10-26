@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-md-7(data-aos="fade-down-right")
         p El término buenas prácticas hace referencia a todas aquellas experiencias que se guíen por principios, objetivos y procedimientos apropiados y que se adecúen a alguna determinada perspectiva normativa, así como también todas aquellas acciones que han presentado excelentes resultados para el desarrollo en un determinado contexto, esperando que en similares condiciones se presenten resultados exitosos.
-        p Las buenas prácticas tienen características específicas y beneficios que las definen, como aquellas que se describen a continuación.     
+        p Las buenas prácticas tienen características específicas y beneficios que las definen, como aquellas que se describen a continuación:
       .col-md-5(data-aos="fade-down-left")
         figure
           img(src='@/assets/curso/temas/tema2/tema2-1.svg', alt='')
@@ -489,11 +489,11 @@
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.2 HACCP
+      h2 2.2 <em>HACCP</em>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-9(data-aos="fade-down-right")
-        p El Sistema de Análisis de Peligros y Puntos Críticos de Control (HACCP) está relacionado directamente con la producción de alimentos inocuos y determinado como un abordaje preventivo y sistemático dirigido a la prevención y sistematización, enfocado a la identificación previa de posibles causas y control de peligros biológicos, químicos y físicos, por medio de la anticipación y prevención, en lugar de inspección y pruebas, en productos finales. 
+        p El Sistema de Análisis de Peligros y Puntos Críticos de Control (<em>HACCP</em>) está relacionado directamente con la producción de alimentos inocuos y determinado como un abordaje preventivo y sistemático dirigido a la prevención y sistematización, enfocado a la identificación previa de posibles causas y control de peligros biológicos, químicos y físicos, por medio de la anticipación y prevención, en lugar de inspección y pruebas, en productos finales. 
         p Este sistema tiene base científica, es sistemático y garantiza la inocuidad del alimento y posee los siguientes beneficios indirectos:
       .col-10.col-md-4.col-lg(data-aos="fade-down-left")
         figure.px-lg-5
@@ -516,13 +516,13 @@
               i.fas.fa-circle
               | Disminuye la destrucción o nuevo procesamiento del producto final por razones de seguridad.
 
-    p.mb-5(data-aos="fade-down") En línea con lo anterior, el HACCP se basa en un sistema de ingeniería conocido como “Análisis de Fallas, Modos y Efectos”, donde, en cada etapa del proceso, se observan los errores que pueden ocurrir, sus causas probables y sus efectos, para entonces establecer el mecanismo de control. Además, es compatible con otros sistemas de control de calidad.
+    p.mb-5(data-aos="fade-down") En línea con lo anterior, el #[em HACCP] se basa en un sistema de ingeniería conocido como “Análisis de Fallas, Modos y Efectos”, donde, en cada etapa del proceso, se observan los errores que pueden ocurrir, sus causas probables y sus efectos, para entonces establecer el mecanismo de control. Además, es compatible con otros sistemas de control de calidad.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-7.col-lg-8(data-aos="fade-down-right")
         p Esto significa que inocuidad, calidad y productividad pueden abordarse en conjunto, resultando en beneficios para los consumidores, más ganancias para las empresas y mejores relaciones entre todas las partes que participan, en función del objetivo común de garantizar la inocuidad y la calidad de los alimentos. Todo esto se expresa en evidente beneficio para la salud y para la economía de los países.
-        p El sistema HACCP se basa en una serie de etapas interrelacionadas, inherentes al procesamiento industrial de alimentos, que se aplican a todos los segmentos y eslabones de la cadena productiva, desde la producción primaria hasta el consumo del alimento, y tiene como base o punto de partida la identificación de los peligros potenciales para la inocuidad del alimento y las medidas de control de dichos peligros.
-        p El sistema HACCP, consta de 7 principios fundamentales que se utilizan para garantizar la seguridad alimentaria. Estos principios son:
+        p El sistema #[em HACCP] se basa en una serie de etapas interrelacionadas, inherentes al procesamiento industrial de alimentos, que se aplican a todos los segmentos y eslabones de la cadena productiva, desde la producción primaria hasta el consumo del alimento, y tiene como base o punto de partida la identificación de los peligros potenciales para la inocuidad del alimento y las medidas de control de dichos peligros.
+        p El sistema #[em HACCP], consta de 7 principios fundamentales que se utilizan para garantizar la seguridad alimentaria. Estos principios son:
       .col-10.col-md-5.col-lg(data-aos="fade-down-left")
         figure
           img(src='@/assets/curso/temas/tema2/tema2-54.svg', alt='')
@@ -569,7 +569,7 @@
             img(src='@/assets/curso/temas/tema2/tema2-60.svg' alt='')
           .tarjeta.tarjeta--azul
             .p-4
-              p Establecer procedimientos de verificación para confirmar si el sistema HACCP está funcionando de manera eficaz.
+              p Establecer procedimientos de verificación para confirmar si el sistema #[em HACCP] está funcionando de manera eficaz.
       .col-md-6(data-aos="fade-down-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
@@ -578,14 +578,14 @@
             .p-4
               p Establecer un sistema de documentación sobre todos los procedimientos y los registros apropiados para estos principios y su aplicación.
 
-    p.mb-5(data-aos="fade-down") Por otro lado, para la aplicación de un sistema de HACCP, es necesario contar con operaciones, como se muestran a continuación:
+    p.mb-5(data-aos="fade-down") Por otro lado, para la aplicación de un sistema de #[em HACCP], es necesario contar con operaciones, como se muestran a continuación:
 
     .row.mb-5(data-aos="fade-down")
       .col-12.mb-5.mb-md-0
         LineaTiempoD.color-acento-botones
-          .row(numero="1" titulo="Formación de un equipo de HACCP") 
+          .row(numero="1" titulo="Formación de un equipo de <em>HACCP</em>") 
             .col-12
-              p La empresa alimentaria deberá asegurar que se disponga de conocimientos y competencia específicos para la formulación de un plan de HACCP eficaz para la producción. Para lograrlo, lo ideal es crear un equipo multidisciplinario, por lo que se deberá determinar qué segmento de la cadena alimentaria está involucrado y qué categorías de peligros han de abordarse. 
+              p La empresa alimentaria deberá asegurar que se disponga de conocimientos y competencia específicos para la formulación de un plan de #[em HACCP] eficaz para la producción. Para lograrlo, lo ideal es crear un equipo multidisciplinario, por lo que se deberá determinar qué segmento de la cadena alimentaria está involucrado y qué categorías de peligros han de abordarse. 
           
           .row(numero="2" titulo="Descripción de productos") 
             .col-12
@@ -597,7 +597,7 @@
           
           .row(numero="4" titulo="Elaboración de un diagrama de flujo") 
             .col-12
-              p El equipo de HACCP deberá cotejar el diagrama de flujo con la operación de elaboración en todas sus etapas y momentos.
+              p El equipo de #[em HACCP] deberá cotejar el diagrama de flujo con la operación de elaboración en todas sus etapas y momentos.
 
           .row(numero="5" titulo="Enumeración de todos los posibles riesgos") 
             .col-12
