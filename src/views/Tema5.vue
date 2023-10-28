@@ -7,7 +7,7 @@
         span 5
       h1 Presentación del plan de auditoría
 
-    p.mb-4(data-aos="fade-down") El objetivo principal de la planificación consiste en determinar adecuada y razonablemente los procedimientos de auditoría que correspondan aplicar, cómo y cuándo se ejecutarán, para que se cumpla la actividad en forma eficiente y efectiva, por lo que es un proceso dinámico, que, si bien se inicia al comienzo de las labores de auditoría, puede modificarse durante la ejecución de la misma.
+    p.mb-4(data-aos="fade-down") El objetivo principal de la planificación consiste en determinar adecuada y razonablemente, los procedimientos de auditoría que correspondan aplicar, cómo y cuándo se ejecutarán, para que se cumpla la actividad en forma eficiente y efectiva, por lo que es un proceso dinámico, que, si bien se inicia al comienzo de las labores de auditoría, puede modificarse durante la ejecución de la misma.
     p.mb-5(data-aos="fade-down") Para la presentación del plan de auditoría, se deben tener en cuenta algunos criterios que son sumamente importantes, porque definen #[em grosso modo] las características de lo que se hizo con el equipo de trabajo, estos elementos son los siguientes: 
 
     .row.justify-content-center.align-items-center.mb-5

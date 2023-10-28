@@ -96,7 +96,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/tema2-4.svg', alt='')
       .col-md-7.col-lg-8(data-aos="fade-down-left")
-        p Las Buenas Prácticas Agrícolas (BPA) se basan en la aplicación del conocimiento disponible para el uso sostenible de los recursos naturales en la producción agrícola, tanto de alimentos como de otros productos. Estas prácticas buscan lograr la viabilidad económica y la estabilidad social al tiempo que se promueve la producción de alimentos sanos y de alta calidad. Las BPA se centran en el control y la atención a los procesos productivos, la verificación de las condiciones de producción, la protección de la salud de los trabajadores rurales y sus familias, así como la preservación de los ecosistemas y recursos naturales en el entorno agrícola.
+        p Las Buenas Prácticas Agrícolas (BPA) se basan en la aplicación del conocimiento disponible para el uso sostenible de los recursos naturales en la producción agrícola, tanto de alimentos como de otros productos. Estas prácticas buscan lograr la viabilidad económica y la estabilidad social, al tiempo que se promueve la producción de alimentos sanos y de alta calidad. Las BPA se centran en el control y la atención a los procesos productivos, la verificación de las condiciones de producción, la protección de la salud de los trabajadores rurales y sus familias, así como la preservación de los ecosistemas y recursos naturales en el entorno agrícola.
         p Para alcanzar estos niveles de sustentabilidad y sostenibilidad dentro de un sistema de producción agrícola, es necesaria la sinergia entre diferentes aspectos que interactúan, los cuales se muestran a continuación:
 
     .row.justify-content-center.mb-5
@@ -110,19 +110,19 @@
     p.mb-5(data-aos="fade-down") Para implementar las BPA se deben tener en cuenta los distintos elementos que conforman el sistema productivo, con el fin de alcanzar el objetivo final, el cual es “garantizar la producción de un alimento o una materia prima inocua”. Por consiguiente, ahora podrá ver descritas las características que debe tener un cultivo para clasificar en la categoría de Buenas Prácticas Agrícolas:
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-down-right")
-      PasosB.color-acento-contenido
+      PasosB.color-acento-contenido.not-center
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Planificación del cultivo
             p Es necesario conocer la historia que tiene la unidad productiva, los tipos de cultivo que han existido, los agroquímicos que se han utilizado, plagas que se presentaron junto con la dedicación forestal. Tramitar ante la secretaría de planeación municipal el certificado del uso del suelo, revisar la cantidad y calidad del agua disponible para el cultivo, evaluar las condiciones climáticas, realizar un análisis fisicoquímico del suelo y del agua. 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-6.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Identificación y gestión de riesgos
             p Se deben identificar los agentes biológicos, físicos o químicos que puedan ocasionar algún daño ambiental o efecto nocivo tanto para los cultivos como para la salud humana y que puedan generar una situación de emergencia. 
-            ul.lista-ul.ms-4(data-aos="fade-down-left")
+            ul.lista-ul.ms-2.ms-md-4(data-aos="fade-down-left")
               li 
                 i.fas.fa-circle
                 | Riesgos físicos: suelos compactos, erosión o inundación, altas velocidades de viento y temperaturas extremas. 
@@ -132,14 +132,14 @@
               li 
                 i.fas.fa-circle
                 | Riesgos biológicos: plagas, vegetación y enfermedades. 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-7.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Educación, mantenimiento de áreas, herramientas e instalaciones
             p Con el fin de garantizar condiciones adecuadas para los trabajadores y para facilitar el trabajo asociado a cultivos agropecuarios, la unidad productiva debe contar, entre otras, con las siguientes instalaciones: 
-            ul.lista-ul.ms-4(data-aos="fade-down-left")
+            ul.lista-ul.ms-2.ms-md-4(data-aos="fade-down-left")
               li 
                 i.fas.fa-circle
                 | Baño para trabajadores.
@@ -162,43 +162,43 @@
                 i.fas.fa-circle
                 | Área para disposición de residuos. 
             p La correcta identificación, ubicación y construcción de estas áreas se debe realizar bajo los estándares de la normatividad vigente del ICA. Se deben mantener en las condiciones de higiene óptimas que permitan evitar accidentes, intoxicaciones y contaminaciones, con el fin de garantizar la inocuidad del producto.
-          .col-md-6
+          .col-lg-6.col-md-8.d-none.d-md-block
             figure
               img(src='@/assets/curso/temas/tema2/tema2-8.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Aseguramiento de la calidad del agua
             p El uso del agua dentro de la unidad productiva debe ser eficiente y sostenible, asegurando al mismo tiempo la calidad del agua utilizada para el consumo humano, el riego y el lavado de productos. Es esencial garantizar que el agua utilizada en todas las actividades relacionadas con el cultivo, como el riego, las aplicaciones de productos químicos y el lavado de equipos y herramientas, esté libre de contaminantes biológicos que puedan afectar tanto la salud de los trabajadores como la calidad de los cultivos.
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-9.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Manejo en cosecha y postcosecha
             p La cosecha abarca desde el momento de la recolección hasta el almacenamiento temporal dentro de la unidad productiva, dentro de esta, es necesario determinar el grado de madurez adecuado de cada producto y verificar la aplicación de agroquímicos para garantizar que el producto esté libre de trazas contaminantes.
-            p La postcosecha se entiende como las actividades desde el almacenamiento temporal de productos en la unidad productiva, pasando por el transporte, hasta la comercialización con destino al consumidor final o la agroindustria.
-          .col-md-6
+            p La postcosecha se entiende como las actividades, desde el almacenamiento temporal de productos en la unidad productiva, pasando por el transporte, hasta la comercialización con destino al consumidor final o la agroindustria.
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Bienestar de los trabajadores
             p En toda organización, el recurso más importante es el talento humano, por esto, es importante garantizar las condiciones adecuadas para que el trabajo realizado en finca se haga de manera eficiente y velando por la seguridad e integridad física y mental de los operarios. Se deben realizar capacitaciones periódicas en temas de relevancia para todo el personal. 
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-11.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Protección del medio ambiente
             p En el contexto actual, es fundamental promover una producción agrícola sostenible y respetuosa con el medio ambiente a nivel mundial. Esto implica la conservación de la fauna, flora, fuentes hídricas y otros recursos naturales presentes en las áreas de producción. Uno de los aspectos más críticos a controlar es la gestión adecuada de los residuos líquidos y sólidos generados en el proceso.
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-12.png', alt='')
         .row.col-ipad(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-lg-6.mb-4.mb-lg-0
             h4 Gestión documental y trazabilidad
             p La trazabilidad se refiere a los procesos que permiten realizar un seguimiento completo de un producto a lo largo de toda la cadena de suministro, desde su origen hasta su destino final. Esto implica la verificación de los registros y documentos relacionados con el producto en cada etapa de su producción y distribución.
-          .col-md-6
+          .col-lg-6
             figure
               img(src='@/assets/curso/temas/tema2/tema2-13.png', alt='')
 
